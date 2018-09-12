@@ -308,6 +308,10 @@ a {
       border-width: 5px;
       margin-left: -5px; }
 
+#hidden {
+  display: none;
+}
+
 .skill h3 {
   font-size: 18px; }
 
